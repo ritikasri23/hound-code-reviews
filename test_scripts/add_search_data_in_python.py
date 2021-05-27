@@ -10,13 +10,13 @@ number_set.add(50)
 # set values printing
 print(number_set)
 
-_message = "that number is not available."
+    _message = "that number is not available."
 
 #request use for a number value for search
 search_val = int(input("input a number:"))
 #Search the number in the set
 for val in number_set:
-  if val = search_val:
+        if val = search_val:
 
    _message = "that number is available."
 break
