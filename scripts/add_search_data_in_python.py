@@ -1,7 +1,7 @@
 
 
 # number set definition
-number_set = {    23, 90, 56, 78, 12, 34, 67 }
+number_set = {    23, 90  56, 78, 12 34, 67 }
 
 # new data is added
 
